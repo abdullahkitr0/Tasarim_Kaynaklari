@@ -1,0 +1,45 @@
+Tasarım Kaynakları
+
+Freebbble: Psd, mockup, wallpaper, fontların bulunduğu kaliteli site.
+365PSD: İsminden belli olduğu gibi çeşitli psd dosyaları bulunuyor.
+Pixel Buddha: Profesyonel topluluk için ücretsiz ve premium kaynaklar.
+Premium Pixels: Yaratıcı bünyeler için ücretsiz psd vs.
+UI Space: Harika insanlar için ücretsiz, yüksek çözünürlüklü, elle yapılmış işler.
+
+
+Renk Paletleri
+Material Palette: Renk paletinizi oluşturun ve kullanmaya başlayın
+New Flat UI Color Picker: UI tasarımı için en sade renkler.
+Flat UI Colors: Hoş düz renkler.
+Coolors: Havalı tasarımcılar için süper hızlı renk şeması oluşturucu.
+Couleurs: Ekranda gördüğünüz rengi yakalamanızı ve ayarlamanızı sağlayan sade bir uygulama.
+Material UI Colors: Android, Web & iOS için Material kullanıcı arayüzü renk paleti.
+
+
+İlham Kaynakları
+MaterialUp: Günlük fikirler.
+FLTDSGN: En iyi düz UI (kullanıcı arayüzü) tasarımıyla yapılmış web sitesi ve uygulamalarından örnekler.
+Site Inspire: Web tasarımı konusunda harika fikirler veren site.
+Moodboard: Güzel bir kolaj tahtası oluşturun
+Crayon: Pazarlama tasarımlarının en kapsamlı koleksiyonu.
+Land-Book: Ürün sayfaları galerisi.
+Dribbble: Tasarımcıların yaptıklarını anlattıkları platform.
+Behance: Tasarımlarınızı sergileyin veya keşfedin.
+
+
+Görsel İyileştiriciler
+TinyJPG | TinyPNG: Görselleri sıkıştırın.
+Compressor.io: Görsellerinizi çevrimiçi iyileştirin
+Kraken: Görsellerinizi iyileştirin ve websitenizi hızlandırın.
+ImageOptimizer: Görsel dosyalarınızı yeniden boyutlandırın ve iyileştirin.
+ImageOptim: Görsellerin bellekte daha az yer kaplamasını ve daha hızlı yüklenmesini sağlar.
+
+
+İkonlar
+Fontello: İkon fontu oluşturucu.
+Flat Icon: 2669000'den fazla Vektör ikon barındıran bir arama motoru.
+Material Design Icons: Google’dan 750 ücretsiz açık kaynaklı ikon.
+Font Awesome: CSS araçları ve ikonik fontlar.
+Glyphsearch: Diğer ikon veritabanlarında ikon araması yapın.
+MakeAppIcon: Tek tıkla tüm boyutlarda uygulama ikonu oluşturun.
+Endless Icons: Ücretsiz ikonlar ve yaratıcı şeyler.
